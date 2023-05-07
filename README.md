@@ -56,8 +56,7 @@
 <br>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Anakin2009/Price-Prediction-and-Analysis-of-Ethylene-Glycol" title="Price-Prediction-and-Analysis-of-Ethylene-Glycol"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Anakin2009&repo=Price-Prediction-and-Analysis-of-Ethylene-Glycol
-&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/Anakin2009/Price-Prediction-and-Analysis-of-Ethylene-Glycol" title="Price-Prediction-and-Analysis-of-Ethylene-Glycol"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Anakin2009&repo=Price-Prediction-and-Analysis-of-Ethylene-Glycol&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a align="right" href="https://github.com/Anakin2009/BeautifulFinance-Dash" title="BeautifulFinance-Dash"><img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Anakin2009&repo=BeautifulFinance-Dash&theme=react&border_color=61dafb&border_radius=10">
   </a>

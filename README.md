@@ -13,7 +13,7 @@
 <br>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥🛠 Languages, Frameworks, Tools & Abilities 🛠🔥</h2>
 <br>
 <p align="center">
   <code><img title="R" height="25" src="imgs/R.png"></code>
@@ -27,7 +27,7 @@
 <hr>
 
 
-<h2 align="center"> ⚡ Stats ⚡ </h2>
+<h2 align="center"> ⚡📊 Stats 📈⚡ </h2>
 <br>
 <p align=center>
   <div align=center>
@@ -48,7 +48,7 @@
 
 
 
-<h2 align="center"> 👨‍💻 Repositories 👨‍💻 </h2>
+<h2 align="center"> 👨‍💻💻 Repositories 📚👨‍💻 </h2>
 <br>
 <table width="100%">
   <tr>

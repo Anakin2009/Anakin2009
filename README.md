@@ -9,8 +9,9 @@
 - ⚡ Fun fact: ...
 -->
 
-
+<h2 align="center">👋 Hi there 👋</h2>
 <br>
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -25,7 +26,8 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+
+<h2 align="center"> ⚡ Stats ⚡ </h2>
 <br>
 <p align=center>
   <div align=center>
@@ -42,9 +44,10 @@
       <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anakin2009&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-</p>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
+
+<h2 align="center"> 👨‍💻 Repositories 👨‍💻 </h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Anakin2009/Anomaly_detection" title="Anomaly_detection"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Anakin2009&repo=Anomaly_detection&theme=react&border_color=61dafb&border_radius=10">
